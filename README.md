@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{VivanStanislaus}/count.svg)
 
-![Kaustubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivanStanislaus&show_icons=true&count_private=true&theme=chartreuse-dark)
+![Vivans's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivanStanislaus&show_icons=true&count_private=true&theme=chartreuse-dark)
 
 ## Hi There <img src="https://user-images.githubusercontent.com/69445549/117252456-9c2b2280-ae63-11eb-8c0a-99fe28ac33a8.gif" width="30px">, I'm Vivan Stanislaus.
 
